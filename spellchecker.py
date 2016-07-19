@@ -1,6 +1,19 @@
 # -*- coding: utf-8 -*-
 
-# User interaction
+#                       __ __        __                __
+#   .-----.-----.-----.|  |  |.----.|  |--.-----.----.|  |--.-----.----.
+#   |__ --|  _  |  -__||  |  ||  __||     |  -__|  __||    <|  -__|   _|
+#   |_____|   __|_____||__|__||____||__|__|_____|____||__|__|_____|__|
+#         |__|
+#
+#   Creaeted by Annika, Christina, Erik, Qian, Seda and Vita
+#
+#   SE Einführung in die maschinelle Sprachverarbeitung mit Python
+#   SoSe2016
+#
+#   Version 0.1.0
+
+
 import sys
 import re
 
